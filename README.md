@@ -1,4 +1,4 @@
-### Hi there! I'm Alifah — a cybersecurity enthusiast with a twist
+# Hi there! I'm Alifah — a cybersecurity enthusiast with a twist
 
 🔍 A quick snapshot of what I do: <br>
 • 🔬 Postdoc @ UCL | Senior Lecturer @ UPM <br>
