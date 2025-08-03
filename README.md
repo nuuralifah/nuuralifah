@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there! I'm Alifah — a cybersecurity enthusiast with a twist
 
-<!--
-**nuuralifah/nuuralifah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 A quick snapshot of what I do: <br>
+• 🔬 Postdoc @ UCL | Senior Lecturer @ UPM <br>
+• 🔒 Exploring the intersection of Cybersecurity & real-world impact <br>
+• 🧠 Deeply invested in Human-Centric Security <br>
+• 🎞️ Passionate about Multimedia Security <br>
+• ✨ Special interest in Steganography <br>
 
-Here are some ideas to get you started:
+💡 I’m all about creating digital spaces that are safer, smarter, and culturally inclusive.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 More about me: [nuuralifahroslan.com](https://nuuralifahroslan.com)
+Let’s build something secure together. 🚀
